@@ -104,4 +104,7 @@ We welcome contributions from the community! Please feel free to submit issues, 
 
 ---
 
+
 **Built with ❤️ for the art community on Stellar Blockchain**
+
+![alt text](image.png)
